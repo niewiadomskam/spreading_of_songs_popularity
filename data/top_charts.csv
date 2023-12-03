@@ -1,0 +1,720 @@
+Country,Position,Date,Song title,Song author,Country,Genre
+Canada,1,2023-08-19,Last Night,Morgan Wallen,US,Country
+Canada,2,2023-08-19,Fast Car,Luke Combs,US,Country
+Canada,3,2023-08-19,Cruel Summer,Taylor Swift,US,Pop
+Canada,4,2023-08-19,Dance The Night,Dua Lipa,England,Pop
+Canada,5,2023-08-19,Calm Down,Rema,GB,
+Canada,6,2023-08-19,Fukumean,Gunna,US,Hip-Hop/Rap
+Canada,7,2023-08-19,Meltdown,Travis Scott & Drake,US,
+Canada,8,2023-08-19,Vampire,Olivia Rodrigo,US,Pop
+Canada,9,2023-08-19,Flowers,Miley Cyrus,US,Pop
+Canada,10,2023-08-19,What Was I Made For?,Billie Eilish,US,Alternative
+Canada,11,2023-08-19,Barbie World,"Nicki Minaj, Ice Spice & Aqua",US,
+Canada,12,2023-08-19,Karma,Taylor Swift,US,Pop
+Canada,13,2023-08-19,Chemical,Post Malone,US,Pop
+Canada,14,2023-08-19,Sprinter,Dave & Central Cee,England,Hip-Hop/Rap
+Canada,15,2023-08-19,Confetti,Charlotte Cardin,Québec,Pop
+Canada,16,2023-08-19,I Know?,Travis Scott,US,Hip-Hop/Rap
+Canada,17,2023-08-19,I'm Good (Blue),David Guetta & Bebe Rexha,US,Dance
+Canada,18,2023-08-19,Telekinesis,"Travis Scott, SZA & Future",US,
+Canada,19,2023-08-19,FE!N,Travis Scott & Playboi Carti,US,
+Canada,20,2023-08-19,Anti-Hero,Taylor Swift,US,Pop
+Canada,1,2023-07-22,Last Night,Morgan Wallen,US,Country
+Canada,2,2023-07-22,Calm Down,Rema,GB,
+Canada,3,2023-07-22,Fast Car,Luke Combs,US,Country
+Canada,4,2023-07-22,Fukumean,Gunna,US,Hip-Hop/Rap
+Canada,5,2023-07-22,Vampire,Olivia Rodrigo,US,Pop
+Canada,6,2023-07-22,Flowers,Miley Cyrus,US,Pop
+Canada,7,2023-07-22,Cruel Summer,Taylor Swift,US,Pop
+Canada,8,2023-07-22,I Can See You (Taylor's Version),Taylor Swift,US,Pop
+Canada,9,2023-07-22,Karma,Taylor Swift,US,Pop
+Canada,10,2023-07-22,Chemical,Post Malone,US,Pop
+Canada,11,2023-07-22,Eyes Closed,Ed Sheeran,GB,Pop
+Canada,12,2023-07-22,Sprinter,Dave & Central Cee,England,Hip-Hop/Rap
+Canada,13,2023-07-22,Dance The Night,Dua Lipa,England,Pop
+Canada,14,2023-07-22,I'm Good (Blue),David Guetta & Bebe Rexha,US,Dance
+Canada,15,2023-07-22,Mine,Taylor Swift,US,Pop
+Canada,16,2023-07-22,Confetti,Charlotte Cardin,Québec,Pop
+Canada,17,2023-07-22,Back To December,Taylor Swift,US,Pop
+Canada,18,2023-07-22,Enchanted (Taylor's Version),Taylor Swift,US,Country
+Canada,19,2023-07-22,Anti-Hero,Taylor Swift,US,Pop
+Canada,20,2023-07-22,Baby Don't Hurt Me,"David Guetta, Anne-Marie & Coi Leray",US,Dance
+Canada,1,2023-06-24,Calm Down,Rema,GB,
+Canada,2,2023-06-24,Last Night,Morgan Wallen,US,Country
+Canada,3,2023-06-24,Flowers,Miley Cyrus,US,Pop
+Canada,4,2023-06-24,Fast Car,Luke Combs,US,Country
+Canada,5,2023-06-24,Sprinter,Dave & Central Cee,England,Hip-Hop/Rap
+Canada,6,2023-06-24,Eyes Closed,Ed Sheeran,GB,Pop
+Canada,7,2023-06-24,Karma,Taylor Swift,US,Pop
+Canada,8,2023-06-24,Chemical,Post Malone,US,Pop
+Canada,9,2023-06-24,Anti-Hero,Taylor Swift,US,Pop
+Canada,10,2023-06-24,I'm Good (Blue),David Guetta & Bebe Rexha,US,Dance
+Canada,11,2023-06-24,Kill Bill,SZA,US,R&B/Soul
+Canada,12,2023-06-24,Cupid,Fifty Fifty,GB,
+Canada,13,2023-06-24,All My Life,Lil Durk & J. Cole,US,
+Canada,14,2023-06-24,Creepin',"Metro Boomin, Weeknd & 21 Savage",US,
+Canada,15,2023-06-24,Dance The Night,Dua Lipa,England,Pop
+Canada,16,2023-06-24,As It Was,Harry Styles,England,Pop
+Canada,17,2023-06-24,As It Was,Harry Styles,England,Pop
+Canada,18,2023-06-24,Die For You,Weeknd,CA,
+Canada,19,2023-06-24,Wish You The Best,Lewis Capaldi,GB,Alternative
+Canada,20,2023-06-24,Dial Drunk,Noah Kahan,US,Alternative
+Canada,1,2023-05-27,Calm Down,Rema,GB,
+Canada,2,2023-05-27,Last Night,Morgan Wallen,US,Country
+Canada,3,2023-05-27,Flowers,Miley Cyrus,US,Pop
+Canada,4,2023-05-27,Eyes Closed,Ed Sheeran,GB,Pop
+Canada,5,2023-05-27,Fast Car,Luke Combs,US,Country
+Canada,6,2023-05-27,Creepin',"Metro Boomin, Weeknd & 21 Savage",US,
+Canada,7,2023-05-27,Cupid,Fifty Fifty,GB,
+Canada,8,2023-05-27,I'm Good (Blue),David Guetta & Bebe Rexha,US,Dance
+Canada,9,2023-05-27,Kill Bill,SZA,US,R&B/Soul
+Canada,10,2023-05-27,Anti-Hero,Taylor Swift,US,Pop
+Canada,11,2023-05-27,All My Life,Lil Durk & J. Cole,US,
+Canada,12,2023-05-27,Chemical,Post Malone,US,Pop
+Canada,13,2023-05-27,Die For You,Weeknd,CA,
+Canada,14,2023-05-27,Daylight,David Kushner,US,Pop
+Canada,15,2023-05-27,Escapism,Raye & 070 Shake,US,
+Canada,16,2023-05-27,Players,Coi Leray,US,Hip-Hop/Rap
+Canada,17,2023-05-27,As It Was,Harry Styles,England,Pop
+Canada,18,2023-05-27,Boy's A Liar,PinkPantheress,England,Pop
+Canada,19,2023-05-27,Search & Rescue,Drake,CA,Hip-Hop/Rap
+Canada,20,2023-05-27,Sure Thing,Miguel,US,R&B/Soul
+Canada,1,2023-04-29,Flowers,Miley Cyrus,US,Pop
+Canada,2,2023-04-29,Calm Down,Rema,GB,
+Canada,3,2023-04-29,Last Night,Morgan Wallen,US,Country
+Canada,4,2023-04-29,Kill Bill,SZA,US,R&B/Soul
+Canada,5,2023-04-29,I'm Good (Blue),David Guetta & Bebe Rexha,US,Dance
+Canada,6,2023-04-29,Daylight,David Kushner,US,Pop
+Canada,7,2023-04-29,Creepin',"Metro Boomin, Weeknd & 21 Savage",US,
+Canada,8,2023-04-29,Search & Rescue,Drake,CA,Hip-Hop/Rap
+Canada,9,2023-04-29,Die For You,Weeknd,CA,
+Canada,10,2023-04-29,Anti-Hero,Taylor Swift,US,Pop
+Canada,11,2023-04-29,Boy's A Liar,PinkPantheress,England,Pop
+Canada,12,2023-04-29,Fast Car,Luke Combs,US,Country
+Canada,13,2023-04-29,Chemical,Post Malone,US,Pop
+Canada,14,2023-04-29,Eyes Closed,Ed Sheeran,GB,Pop
+Canada,15,2023-04-29,Players,Coi Leray,US,Hip-Hop/Rap
+Canada,16,2023-04-29,Lavender Haze,Taylor Swift,US,Pop
+Canada,17,2023-04-29,Escapism,Raye & 070 Shake,US,
+Canada,18,2023-04-29,Unholy,Sam Smith & Kim Petras,US,Dance
+Canada,19,2023-04-29,As It Was,Harry Styles,England,Pop
+Canada,20,2023-04-29,Cupid,Fifty Fifty,GB,
+Canada,1,2023-04-01,Flowers,Miley Cyrus,US,Pop
+Canada,2,2023-04-01,Calm Down,Rema,GB,
+Canada,3,2023-04-01,Last Night,Morgan Wallen,US,Country
+Canada,4,2023-04-01,Creepin',"Metro Boomin, Weeknd & 21 Savage",US,
+Canada,5,2023-04-01,I'm Good (Blue),David Guetta & Bebe Rexha,US,Dance
+Canada,6,2023-04-01,Kill Bill,SZA,US,R&B/Soul
+Canada,7,2023-04-01,Boy's A Liar,PinkPantheress,England,Pop
+Canada,8,2023-04-01,Die For You,Weeknd,CA,
+Canada,9,2023-04-01,Anti-Hero,Taylor Swift,US,Pop
+Canada,10,2023-04-01,Players,Coi Leray,US,Hip-Hop/Rap
+Canada,11,2023-04-01,Unholy,Sam Smith & Kim Petras,US,Dance
+Canada,12,2023-04-01,All Of The Girls You Loved Before,Taylor Swift,US,Pop
+Canada,13,2023-04-01,Escapism,Raye & 070 Shake,US,
+Canada,14,2023-04-01,As It Was,Harry Styles,England,Pop
+Canada,15,2023-04-01,Lavender Haze,Taylor Swift,US,Pop
+Canada,16,2023-04-01,Until I Found You,Stephen Sanchez,,Singer/Songwriter
+Canada,17,2023-04-01,Made You Look,Meghan Trainor,US,Pop
+Canada,18,2023-04-01,Rock And A Hard Place,Bailey Zimmerman,US,Country
+Canada,19,2023-04-01,Flowers Need Rain,"Preston Pablo, Banx & Ranx",CA,
+Canada,20,2023-04-01,Something In The Orange,Zach Bryan,Seattle,Country
+Canada,1,2023-03-04,Flowers,Miley Cyrus,US,Pop
+Canada,2,2023-03-04,Boy's A Liar,PinkPantheress,England,Pop
+Canada,3,2023-03-04,Calm Down,Rema,GB,
+Canada,4,2023-03-04,I'm Good (Blue),David Guetta & Bebe Rexha,US,Dance
+Canada,5,2023-03-04,Kill Bill,SZA,US,R&B/Soul
+Canada,6,2023-03-04,Creepin',"Metro Boomin, Weeknd & 21 Savage",US,
+Canada,7,2023-03-04,Last Night,Morgan Wallen,US,Country
+Canada,8,2023-03-04,Unholy,Sam Smith & Kim Petras,US,Dance
+Canada,9,2023-03-04,Anti-Hero,Taylor Swift,US,Pop
+Canada,10,2023-03-04,Made You Look,Meghan Trainor,US,Pop
+Canada,11,2023-03-04,As It Was,Harry Styles,England,Pop
+Canada,12,2023-03-04,Escapism,Raye & 070 Shake,US,
+Canada,13,2023-03-04,Forget Me,Lewis Capaldi,GB,Alternative
+Canada,14,2023-03-04,Players,Coi Leray,US,Hip-Hop/Rap
+Canada,15,2023-03-04,Until I Found You,Stephen Sanchez,,Singer/Songwriter
+Canada,16,2023-03-04,Sure Thing,Miguel,US,R&B/Soul
+Canada,17,2023-03-04,Flowers Need Rain,"Preston Pablo, Banx & Ranx",CA,
+Canada,18,2023-03-04,Lavender Haze,Taylor Swift,US,Pop
+Canada,19,2023-03-04,Die For You,Weeknd,CA,
+Canada,20,2023-03-04,Something In The Orange,Zach Bryan,Seattle,Country
+Canada,1,2023-02-04,Flowers,Miley Cyrus,US,Pop
+Canada,2,2023-02-04,I'm Good (Blue),David Guetta & Bebe Rexha,US,Dance
+Canada,3,2023-02-04,Kill Bill,SZA,US,R&B/Soul
+Canada,4,2023-02-04,Anti-Hero,Taylor Swift,US,Pop
+Canada,5,2023-02-04,Unholy,Sam Smith & Kim Petras,US,Dance
+Canada,6,2023-02-04,Creepin',"Metro Boomin, Weeknd & 21 Savage",US,
+Canada,7,2023-02-04,Calm Down,Rema,GB,
+Canada,8,2023-02-04,Made You Look,Meghan Trainor,US,Pop
+Canada,9,2023-02-04,Escapism,Raye & 070 Shake,US,
+Canada,10,2023-02-04,As It Was,Harry Styles,England,Pop
+Canada,11,2023-02-04,Forget Me,Lewis Capaldi,GB,Alternative
+Canada,12,2023-02-04,I Ain't Worried,OneRepublic,US,Pop
+Canada,13,2023-02-04,Hold Me Closer,Elton John & Britney Spears,US,Dance
+Canada,14,2023-02-04,Something In The Orange,Zach Bryan,Seattle,Country
+Canada,15,2023-02-04,Superhero (Heroes & Villains),"Metro Boomin, Future & Chris Brown",US,Hip-Hop/Rap
+Canada,16,2023-02-04,Flowers Need Rain,"Preston Pablo, Banx & Ranx",CA,
+Canada,17,2023-02-04,Rich Flex,Drake & 21 Savage,US,Hip-Hop/Rap
+Canada,18,2023-02-04,10:35,DJ Tiesto & Tate McRae,NL,
+Canada,19,2023-02-04,Until I Found You,Stephen Sanchez,,Singer/Songwriter
+Canada,20,2023-02-04,Sure Thing,Miguel,US,R&B/Soul
+Canada,1,2023-01-07,Rockin' Around The Christmas Tree,Brenda Lee,Nashville,Christmas
+Canada,2,2023-01-07,All I Want For Christmas Is You,Mariah Carey,US,Christmas: Pop
+Canada,3,2023-01-07,Last Christmas,Wham!,GB,Pop
+Canada,4,2023-01-07,Jingle Bell Rock,Bobby Helms,US,Holiday
+Canada,5,2023-01-07,It's Beginning To Look A Lot Like Christmas,Michael Buble,CA,
+Canada,6,2023-01-07,A Holly Jolly Christmas,Burl Ives,US,Holiday
+Canada,7,2023-01-07,It's The Most Wonderful Time Of The Year,Andy Williams,US,Christmas: Classic
+Canada,8,2023-01-07,I'm Good (Blue),David Guetta & Bebe Rexha,US,Dance
+Canada,9,2023-01-07,Feliz Navidad,Jose Feliciano,US,
+Canada,10,2023-01-07,Unholy,Sam Smith & Kim Petras,US,Dance
+Canada,11,2023-01-07,Anti-Hero,Taylor Swift,US,Pop
+Canada,12,2023-01-07,Let It Snow! Let It Snow! Let It Snow!,Dean Martin,US,Christmas: Classic
+Canada,13,2023-01-07,The Christmas Song (Merry Christmas To You),Nat King Cole,US,
+Canada,14,2023-01-07,Kill Bill,SZA,US,R&B/Soul
+Canada,15,2023-01-07,Underneath The Tree,Kelly Clarkson,US,Holiday
+Canada,16,2023-01-07,Sleigh Ride,Ronettes,US,
+Canada,17,2023-01-07,Mistletoe,Justin Bieber,CA,Holiday
+Canada,18,2023-01-07,Santa Tell Me,Ariana Grande,US,Holiday
+Canada,19,2023-01-07,White Christmas,Bing Crosby,US,Musicals
+Canada,20,2023-01-07,Wonderful Christmastime,Paul McCartney,GB,Rock
+Canada,1,2022-12-10,Anti-Hero,Taylor Swift,US,Pop
+Canada,2,2022-12-10,Unholy,Sam Smith & Kim Petras,US,Dance
+Canada,3,2022-12-10,I'm Good (Blue),David Guetta & Bebe Rexha,US,Dance
+Canada,4,2022-12-10,Rich Flex,Drake & 21 Savage,US,Hip-Hop/Rap
+Canada,5,2022-12-10,All I Want For Christmas Is You,Mariah Carey,US,Christmas: Pop
+Canada,6,2022-12-10,Rockin' Around The Christmas Tree,Brenda Lee,Nashville,Christmas
+Canada,7,2022-12-10,Last Christmas,Wham!,GB,Pop
+Canada,8,2022-12-10,I Ain't Worried,OneRepublic,US,Pop
+Canada,9,2022-12-10,Jingle Bell Rock,Bobby Helms,US,Holiday
+Canada,10,2022-12-10,As It Was,Harry Styles,England,Pop
+Canada,11,2022-12-10,Made You Look,Meghan Trainor,US,Pop
+Canada,12,2022-12-10,Flowers Need Rain,"Preston Pablo, Banx & Ranx",CA,
+Canada,13,2022-12-10,I Like You (A Happier Song),Post Malone & Doja Cat,US,
+Canada,14,2022-12-10,Hold Me Closer,Elton John & Britney Spears,US,Dance
+Canada,15,2022-12-10,It's Beginning To Look A Lot Like Christmas,Michael Buble,CA,
+Canada,16,2022-12-10,Calm Down,Rema,GB,
+Canada,17,2022-12-10,Late Night Talking,Harry Styles,England,Pop
+Canada,18,2022-12-10,Lift Me Up,Rihanna,US,Pop
+Canada,19,2022-12-10,It's The Most Wonderful Time Of The Year,Andy Williams,US,Christmas: Classic
+Canada,20,2022-12-10,Numb,Marshmello & Khalid,US,R&B/Soul
+Canada,1,2022-11-12,Anti-Hero,Taylor Swift,US,Pop
+Canada,2,2022-11-12,Unholy,Sam Smith & Kim Petras,US,Dance
+Canada,3,2022-11-12,Lift Me Up,Rihanna,US,Pop
+Canada,4,2022-11-12,I'm Good (Blue),David Guetta & Bebe Rexha,US,Dance
+Canada,5,2022-11-12,Lavender Haze,Taylor Swift,US,Pop
+Canada,6,2022-11-12,I Ain't Worried,OneRepublic,US,Pop
+Canada,7,2022-11-12,Midnight Rain,Taylor Swift,US,Pop
+Canada,8,2022-11-12,Maroon,Taylor Swift,US,Pop
+Canada,9,2022-11-12,Bejeweled,Taylor Swift,US,Pop
+Canada,10,2022-11-12,Snow On The Beach,Taylor Swift & Lana Del Rey,US,
+Canada,11,2022-11-12,"You're On Your Own, Kid",Taylor Swift,US,Pop
+Canada,12,2022-11-12,Karma,Taylor Swift,US,Pop
+Canada,13,2022-11-12,As It Was,Harry Styles,England,Pop
+Canada,14,2022-11-12,Numb,Marshmello & Khalid,US,R&B/Soul
+Canada,15,2022-11-12,I Like You (A Happier Song),Post Malone & Doja Cat,US,
+Canada,16,2022-11-12,Vigilante Shit,Taylor Swift,US,Pop
+Canada,17,2022-11-12,Hold Me Closer,Elton John & Britney Spears,US,Dance
+Canada,18,2022-11-12,Flowers Need Rain,"Preston Pablo, Banx & Ranx",CA,
+Canada,19,2022-11-12,Question...?,Taylor Swift,US,Pop
+Canada,20,2022-11-12,Shirt,SZA,US,R&B/Soul
+Canada,1,2022-10-15,Unholy,Sam Smith & Kim Petras,US,Dance
+Canada,2,2022-10-15,I'm Good (Blue),David Guetta & Bebe Rexha,US,Dance
+Canada,3,2022-10-15,Sunroof,Nicky Youre & Dazy,US,Pop
+Canada,4,2022-10-15,I Ain't Worried,OneRepublic,US,Pop
+Canada,5,2022-10-15,As It Was,Harry Styles,England,Pop
+Canada,6,2022-10-15,Numb,Marshmello & Khalid,US,R&B/Soul
+Canada,7,2022-10-15,I Like You (A Happier Song),Post Malone & Doja Cat,US,
+Canada,8,2022-10-15,Late Night Talking,Harry Styles,England,Pop
+Canada,9,2022-10-15,Flowers Need Rain,"Preston Pablo, Banx & Ranx",CA,
+Canada,10,2022-10-15,About Damn Time,Lizzo,US,Pop
+Canada,11,2022-10-15,Hold Me Closer,Elton John & Britney Spears,US,Dance
+Canada,12,2022-10-15,Bad Habit,Steve Lacy,US,R&B/Soul
+Canada,13,2022-10-15,Super Freaky Girl,Nicki Minaj,US,Hip-Hop/Rap
+Canada,14,2022-10-15,HeatWaves,Glass Animals,GB,Alternative
+Canada,15,2022-10-15,Vegas,Doja Cat,US,Pop
+Canada,16,2022-10-15,Under The Influence,Chris Brown,US,R&B/Soul
+Canada,17,2022-10-15,The Kind Of Love We Make,Luke Combs,US,Country
+Canada,18,2022-10-15,Star Walkin' (League Of Legends Worlds Anthem),Lil Nas X,US,Pop
+Canada,19,2022-10-15,Calm Down,Rema,GB,
+Canada,20,2022-10-15,Something In The Orange,Zach Bryan,Seattle,Country
+Chile,1,2023-08-12,Cabana,El Jordan 23,,
+Chile,2,2023-08-12,Tu Falta De Querer,Mon Laferte,MX,Rock y Alternativo
+Chile,3,2023-08-12,Mi Buen Amor,Mon Laferte & Enrique Bunbury,ES,
+Chile,4,2023-08-12,Marisola,Cris MJ,,
+Chile,5,2023-08-12,La Inocente,Feir & Mora,,
+Chile,6,2023-08-12,Xq Tan Sola?,Nickoog Clk,,
+Chile,7,2023-08-12,El Amor De Tu Vida,Gino Mella & Jairo Vera,,
+Chile,8,2023-08-12,Si Supieras,Bayron Fire,,
+Chile,9,2023-08-12,Roll Royce,Standly,,
+Chile,10,2023-08-12,Ultra Solo Remix,"Feid, De La Ghetto, Paloma Mami, Polima Westcoast & Pailita",CL,
+Chile,11,2023-08-12,34 Amor Y Mafia Remix,El Jincho & Harry Nach,,
+Chile,12,2023-08-12,Pegate,Standly,,Latino
+Chile,13,2023-08-12,Bailando,El Jordan 23,,
+Chile,14,2023-08-12,Me Acorde De Ti,Pailita,Santiago,Música tropical
+Chile,15,2023-08-12,Mi Bruja,Jere Klein & Drako Mafia,ES,
+Chile,16,2023-08-12,Sheraton,El Jordan 23,,Urbano latino
+Chile,17,2023-08-12,Tuyo,Mora,,Urbano latino
+Chile,18,2023-08-12,512,Jhay Cortez & Mora,PR,
+Chile,19,2023-08-12,Amarrame,Mon Laferte & Juanes,MX,
+Chile,20,2023-08-12,Madrid,Juanka El Problematik & Jairo Vera,PR,
+Chile,1,2023-07-15,Tu Falta De Querer,Mon Laferte,MX,Rock y Alternativo
+Chile,2,2023-07-15,Marisola,Cris MJ,,
+Chile,3,2023-07-15,Mi Buen Amor,Mon Laferte & Enrique Bunbury,ES,
+Chile,4,2023-07-15,Ultra Solo Remix,"Feid, De La Ghetto, Paloma Mami, Polima Westcoast & Pailita",CL,
+Chile,5,2023-07-15,La Inocente,Feir & Mora,,
+Chile,6,2023-07-15,Xq Tan Sola?,Nickoog Clk,,
+Chile,7,2023-07-15,34 Amor Y Mafia Remix,El Jincho & Harry Nach,,
+Chile,8,2023-07-15,Cabana,El Jordan 23,,
+Chile,9,2023-07-15,El Amor De Tu Vida,Gino Mella & Jairo Vera,,
+Chile,10,2023-07-15,Mi Bruja,Jere Klein & Drako Mafia,ES,
+Chile,11,2023-07-15,Me Acorde De Ti,Pailita,Santiago,Música tropical
+Chile,12,2023-07-15,Madrid,Juanka El Problematik & Jairo Vera,PR,
+Chile,13,2023-07-15,Si Supieras,Bayron Fire,,
+Chile,14,2023-07-15,Bailando,El Jordan 23,,
+Chile,15,2023-07-15,Sheraton,El Jordan 23,,Urbano latino
+Chile,16,2023-07-15,Roll Royce,Standly,,
+Chile,17,2023-07-15,Pegate,Standly,,Latino
+Chile,18,2023-07-15,Tuyo,Mora,,Urbano latino
+Chile,19,2023-07-15,2 Hielos,King Savagge,,
+Chile,20,2023-07-15,Lokotron,"Pablo Chill-e & Harry Nach, Polima Westcoast, Cris MJ & Aqua VS",CL,
+Chile,1,2023-06-17,Tu Falta De Querer,Mon Laferte,MX,Rock y Alternativo
+Chile,2,2023-06-17,Marisola,Cris MJ,,
+Chile,3,2023-06-17,La Inocente,Feir & Mora,,
+Chile,4,2023-06-17,Una En Un Millon,Jere Klein,,Urbano latino
+Chile,5,2023-06-17,Mi Buen Amor,Mon Laferte & Enrique Bunbury,ES,
+Chile,6,2023-06-17,Xq Tan Sola?,Nickoog Clk,,
+Chile,7,2023-06-17,Ultra Solo Remix,"Feid, De La Ghetto, Paloma Mami, Polima Westcoast & Pailita",CL,
+Chile,8,2023-06-17,Donde?,Jere Klein,,
+Chile,9,2023-06-17,Ram,Jere Klein,,
+Chile,10,2023-06-17,Ibiza,"Balbi El Chamako, El Baice & Jere Klein",CL,
+Chile,11,2023-06-17,Sheraton,El Jordan 23,,Urbano latino
+Chile,12,2023-06-17,2 Hielos,King Savagge,,
+Chile,13,2023-06-17,Madrid,Juanka El Problematik & Jairo Vera,PR,
+Chile,14,2023-06-17,Pegate,Standly,,Latino
+Chile,15,2023-06-17,Me Veo Rico,Gino Mella & Lucky Brown,,
+Chile,16,2023-06-17,34 Amor Y Mafia Remix,El Jincho & Harry Nach,,
+Chile,17,2023-06-17,Roll Royce,Standly,,
+Chile,18,2023-06-17,Bailando,El Jordan 23,,
+Chile,19,2023-06-17,Ropa Cara,El Jordan 23 & Pailita,,Urbano latino
+Chile,20,2023-06-17,El Amor De Tu Vida,Gino Mella & Jairo Vera,,
+Chile,1,2023-05-20,Marisola,Cris MJ,,
+Chile,2,2023-05-20,Mi Buen Amor,Mon Laferte & Enrique Bunbury,ES,
+Chile,3,2023-05-20,Tu Falta De Querer,Mon Laferte,MX,Rock y Alternativo
+Chile,4,2023-05-20,Xq Tan Sola?,Nickoog Clk,,
+Chile,5,2023-05-20,Donde?,Jere Klein,,
+Chile,6,2023-05-20,La Inocente,Feir & Mora,,
+Chile,7,2023-05-20,Ibiza,"Balbi El Chamako, El Baice & Jere Klein",CL,
+Chile,8,2023-05-20,Ultra Solo Remix,"Feid, De La Ghetto, Paloma Mami, Polima Westcoast & Pailita",CL,
+Chile,9,2023-05-20,Ram,Jere Klein,,
+Chile,10,2023-05-20,Madrid,Juanka El Problematik & Jairo Vera,PR,
+Chile,11,2023-05-20,2 Hielos,King Savagge,,
+Chile,12,2023-05-20,Sheraton,El Jordan 23,,Urbano latino
+Chile,13,2023-05-20,Venga Pa' Aca,Pailita,Santiago,Urbano latino
+Chile,14,2023-05-20,Bellakita,El Jordan 23,,Urbano latino
+Chile,15,2023-05-20,Los Rockstars,Gabo El Chamaquito & Jere Klein,,
+Chile,16,2023-05-20,34 Amor Y Mafia Remix,El Jincho & Harry Nach,,
+Chile,17,2023-05-20,Roll Royce,Standly,,
+Chile,18,2023-05-20,Bailando,El Jordan 23,,
+Chile,19,2023-05-20,Ya No Pienso En Ti,Jere Kelin,,
+Chile,20,2023-05-20,Traketo,Jere Klein,,
+Chile,1,2023-04-22,Mi Buen Amor,Mon Laferte & Enrique Bunbury,ES,
+Chile,2,2023-04-22,Marisola,Cris MJ,,
+Chile,3,2023-04-22,Donde?,Jere Klein,,
+Chile,4,2023-04-22,Xq Tan Sola?,Nickoog Clk,,
+Chile,5,2023-04-22,La Inocente,Feir & Mora,,
+Chile,6,2023-04-22,Tu Falta De Querer,Mon Laferte,MX,Rock y Alternativo
+Chile,7,2023-04-22,Sheraton,El Jordan 23,,Urbano latino
+Chile,8,2023-04-22,Ram,Jere Klein,,
+Chile,9,2023-04-22,Los Rockstars,Gabo El Chamaquito & Jere Klein,,
+Chile,10,2023-04-22,Venga Pa' Aca,Pailita,Santiago,Urbano latino
+Chile,11,2023-04-22,Ultra Solo Remix,"Feid, De La Ghetto, Paloma Mami, Polima Westcoast & Pailita",CL,
+Chile,12,2023-04-22,Ibiza,"Balbi El Chamako, El Baice & Jere Klein",CL,
+Chile,13,2023-04-22,2 Hielos,King Savagge,,
+Chile,14,2023-04-22,Ya No Pienso En Ti,Jere Kelin,,
+Chile,15,2023-04-22,Minimo Esfuerzo,Duki & Pablo Chill-e,CL,
+Chile,16,2023-04-22,Pegate,Standly,,Latino
+Chile,17,2023-04-22,Muneca,Marcianeke & Jere Klein,CL,
+Chile,18,2023-04-22,Glocko,Nickoog Clk,,
+Chile,19,2023-04-22,Ese Corte,Balbi El Chamako,CL,
+Chile,20,2023-04-22,Traketo,Jere Klein,,
+Chile,1,2023-03-25,Marisola,Cris MJ,,
+Chile,2,2023-03-25,Mi Buen Amor,Mon Laferte & Enrique Bunbury,ES,
+Chile,3,2023-03-25,La Inocente,Feir & Mora,,
+Chile,4,2023-03-25,Tu Falta De Querer,Mon Laferte,MX,Rock y Alternativo
+Chile,5,2023-03-25,Sheraton,El Jordan 23,,Urbano latino
+Chile,6,2023-03-25,Ultra Solo Remix,"Feid, De La Ghetto, Paloma Mami, Polima Westcoast & Pailita",CL,
+Chile,7,2023-03-25,Los Rockstars,Gabo El Chamaquito & Jere Klein,,
+Chile,8,2023-03-25,Muneca,Marcianeke & Jere Klein,CL,
+Chile,9,2023-03-25,2 Hielos,King Savagge,,
+Chile,10,2023-03-25,Donde?,Jere Klein,,
+Chile,11,2023-03-25,Pegate,Standly,,Latino
+Chile,12,2023-03-25,Baila Para Mi,Standly,,Latino
+Chile,13,2023-03-25,Ese Corte,Balbi El Chamako,CL,
+Chile,14,2023-03-25,Bailando,El Jordan 23,,
+Chile,15,2023-03-25,Ya No Pienso En Ti,Jere Kelin,,
+Chile,16,2023-03-25,34 Amor Y Mafia Remix,El Jincho & Harry Nach,,
+Chile,17,2023-03-25,Traketo,Jere Klein,,
+Chile,18,2023-03-25,512,Jhay Cortez & Mora,PR,
+Chile,19,2023-03-25,Lo Mismo Que Yo Rmx,Balbi El Chamako & Marcianeke,CL,
+Chile,20,2023-03-25,Glocko,Nickoog Clk,,
+Chile,1,2023-02-25,Marisola,Cris MJ,,
+Chile,2,2023-02-25,La Inocente,Feir & Mora,,
+Chile,3,2023-02-25,Mi Buen Amor,Mon Laferte & Enrique Bunbury,ES,
+Chile,4,2023-02-25,Sheraton,El Jordan 23,,Urbano latino
+Chile,5,2023-02-25,Tu Falta De Querer,Mon Laferte,MX,Rock y Alternativo
+Chile,6,2023-02-25,2 Hielos,King Savagge,,
+Chile,7,2023-02-25,Ultra Solo Remix,"Feid, De La Ghetto, Paloma Mami, Polima Westcoast & Pailita",CL,
+Chile,8,2023-02-25,Los Rockstars,Gabo El Chamaquito & Jere Klein,,
+Chile,9,2023-02-25,Muneca,Marcianeke & Jere Klein,CL,
+Chile,10,2023-02-25,Ese Corte,Balbi El Chamako,CL,
+Chile,11,2023-02-25,Pegate,Standly,,Latino
+Chile,12,2023-02-25,34 Amor Y Mafia Remix,El Jincho & Harry Nach,,
+Chile,13,2023-02-25,Mi Facha,Cris MJ,,
+Chile,14,2023-02-25,Bailando,El Jordan 23,,
+Chile,15,2023-02-25,Vengo De La Brea,Lucky Brown & Jere Klein,US,Urbano latino
+Chile,16,2023-02-25,Mandame Tu Ubi,Jere Klein,,
+Chile,17,2023-02-25,Lokotron,"Pablo Chill-e & Harry Nach, Polima Westcoast, Cris MJ & Aqua VS",CL,
+Chile,18,2023-02-25,Ya No Pienso En Ti,Jere Kelin,,
+Chile,19,2023-02-25,Baila Para Mi,Standly,,Latino
+Chile,20,2023-02-25,Con Puras De 25,Jairo Vera,,
+Chile,1,2023-01-28,Marisola,Cris MJ,,
+Chile,2,2023-01-28,La Inocente,Feir & Mora,,
+Chile,3,2023-01-28,Ese Corte,Balbi El Chamako,CL,
+Chile,4,2023-01-28,Mi Buen Amor,Mon Laferte & Enrique Bunbury,ES,
+Chile,5,2023-01-28,Ultra Solo Remix,"Feid, De La Ghetto, Paloma Mami, Polima Westcoast & Pailita",CL,
+Chile,6,2023-01-28,Tu Falta De Querer,Mon Laferte,MX,Rock y Alternativo
+Chile,7,2023-01-28,Pegate,Standly,,Latino
+Chile,8,2023-01-28,Muneca,Marcianeke & Jere Klein,CL,
+Chile,9,2023-01-28,Mandame Tu Ubi,Jere Klein,,
+Chile,10,2023-01-28,Lokotron,"Pablo Chill-e & Harry Nach, Polima Westcoast, Cris MJ & Aqua VS",CL,
+Chile,11,2023-01-28,Llamame Bebe,"Young Cister, Cris MJ & Pailita",Santiago,
+Chile,12,2023-01-28,34 Amor Y Mafia Remix,El Jincho & Harry Nach,,
+Chile,13,2023-01-28,Como Tu Ninguna,Pablo Chill-E & Cris MJ,,
+Chile,14,2023-01-28,Bailando,El Jordan 23,,
+Chile,15,2023-01-28,Baila Para Mi,Standly,,Latino
+Chile,16,2023-01-28,Tu Diablo,ITHAN NY,,
+Chile,17,2023-01-28,Blackout,Mora,,
+Chile,18,2023-01-28,Los Diablotes,Jere Klein,,
+Chile,19,2023-01-28,Mi Facha,Cris MJ,,
+Chile,20,2023-01-28,Marisola,Cris MJ,,
+Chile,1,2022-12-31,Marisola,Cris MJ,,
+Chile,2,2022-12-31,Llamame Bebe,"Young Cister, Cris MJ & Pailita",Santiago,
+Chile,3,2022-12-31,La Inocente,Feir & Mora,,
+Chile,4,2022-12-31,Ese Corte,Balbi El Chamako,CL,
+Chile,5,2022-12-31,Ultra Solo Remix,"Feid, De La Ghetto, Paloma Mami, Polima Westcoast & Pailita",CL,
+Chile,6,2022-12-31,Por Que No Te Decides,Pailita,Santiago,
+Chile,7,2022-12-31,Tu Falta De Querer,Mon Laferte,MX,Rock y Alternativo
+Chile,8,2022-12-31,Pegate,Standly,,Latino
+Chile,9,2022-12-31,34 Amor Y Mafia Remix,El Jincho & Harry Nach,,
+Chile,10,2022-12-31,Tu Diablo,ITHAN NY,,
+Chile,11,2022-12-31,Mandame Tu Ubi,Jere Klein,,
+Chile,12,2022-12-31,Baila Para Mi,Standly,,Latino
+Chile,13,2022-12-31,Lokotron,"Pablo Chill-e & Harry Nach, Polima Westcoast, Cris MJ & Aqua VS",CL,
+Chile,14,2022-12-31,Mi Buen Amor,Mon Laferte & Enrique Bunbury,ES,
+Chile,15,2022-12-31,Bailando,El Jordan 23,,
+Chile,16,2022-12-31,Marisola,Cris MJ,,
+Chile,17,2022-12-31,Pailita,Pailita,Santiago,Urbano latino
+Chile,18,2022-12-31,Muneca,Marcianeke & Jere Klein,CL,
+Chile,19,2022-12-31,Mami,El Jordan 23,,
+Chile,20,2022-12-31,Panty,Pailita,Santiago,
+Chile,1,2022-12-03,Marisola,Cris MJ,,
+Chile,2,2022-12-03,34 Amor Y Mafia Remix,El Jincho & Harry Nach,,
+Chile,3,2022-12-03,Baila Para Mi,Standly,,Latino
+Chile,4,2022-12-03,Ultra Solo Remix,"Feid, De La Ghetto, Paloma Mami, Polima Westcoast & Pailita",CL,
+Chile,5,2022-12-03,Lacone,Polima Westcoast & Quevedo,CL,
+Chile,6,2022-12-03,La Inocente,Feir & Mora,,
+Chile,7,2022-12-03,Tu Diablo,ITHAN NY,,
+Chile,8,2022-12-03,Tu Falta De Querer,Mon Laferte,MX,Rock y Alternativo
+Chile,9,2022-12-03,Como Tu Ninguna,Pablo Chill-E & Cris MJ,,
+Chile,10,2022-12-03,Pailita,Pailita,Santiago,Urbano latino
+Chile,11,2022-12-03,Mami,El Jordan 23,,
+Chile,12,2022-12-03,Baby Otaku,"Fran C, Polima Westcoast, Nickoog Clk & Pablito Pesadilla",CL,
+Chile,13,2022-12-03,Pegate,Standly,,Latino
+Chile,14,2022-12-03,Manana No Hay Clases,Standly,,Latino
+Chile,15,2022-12-03,Bailando,El Jordan 23,,
+Chile,16,2022-12-03,Mi Buen Amor,Mon Laferte & Enrique Bunbury,ES,
+Chile,17,2022-12-03,Bellakera,Cris MJ,,
+Chile,18,2022-12-03,Paz Mental,Cris MJ,,
+Chile,19,2022-12-03,Welcome To My World,Cris MJ,,
+Chile,20,2022-12-03,Prendiendo Blones,El Jordan 23,,New Age
+Chile,1,2022-11-05,Marisola,Cris MJ,,
+Chile,2,2022-11-05,Baila Para Mi,Standly,,Latino
+Chile,3,2022-11-05,Ultra Solo Remix,"Feid, De La Ghetto, Paloma Mami, Polima Westcoast & Pailita",CL,
+Chile,4,2022-11-05,34 Amor Y Mafia Remix,El Jincho & Harry Nach,,
+Chile,5,2022-11-05,Baby Otaku,"Fran C, Polima Westcoast, Nickoog Clk & Pablito Pesadilla",CL,
+Chile,6,2022-11-05,La Inocente,Feir & Mora,,
+Chile,7,2022-11-05,Pegate,Standly,,Latino
+Chile,8,2022-11-05,Tu Falta De Querer,Mon Laferte,MX,Rock y Alternativo
+Chile,9,2022-11-05,Pailita,Pailita,Santiago,Urbano latino
+Chile,10,2022-11-05,Apa,Mora,,
+Chile,11,2022-11-05,Domingo De Bote,Mora,,Urbano latino
+Chile,12,2022-11-05,Paz Mental,Cris MJ,,
+Chile,13,2022-11-05,Bailando,El Jordan 23,,
+Chile,14,2022-11-05,Bellakera,Cris MJ,,
+Chile,15,2022-11-05,Modelito,Mora,,
+Chile,16,2022-11-05,Prendiendo Blones,El Jordan 23,,New Age
+Chile,17,2022-11-05,Calenton,Mora,,Urbano latino
+Chile,18,2022-11-05,Mi Buen Amor,Mon Laferte & Enrique Bunbury,ES,
+Chile,19,2022-11-05,Bailemos Reggaeton,Standly,,Latino
+Chile,20,2022-11-05,Tu Diablo,ITHAN NY,,
+Chile,1,2022-10-08,Marisola,Cris MJ,,
+Chile,2,2022-10-08,Baby Otaku,"Fran C, Polima Westcoast, Nickoog Clk & Pablito Pesadilla",CL,
+Chile,3,2022-10-08,Ultra Solo Remix,"Feid, De La Ghetto, Paloma Mami, Polima Westcoast & Pailita",CL,
+Chile,4,2022-10-08,La Inocente,Feir & Mora,,
+Chile,5,2022-10-08,Baila Para Mi,Standly,,Latino
+Chile,6,2022-10-08,Calenton,Mora,,Urbano latino
+Chile,7,2022-10-08,Pailita,Pailita,Santiago,Urbano latino
+Chile,8,2022-10-08,Pegate,Standly,,Latino
+Chile,9,2022-10-08,Bailando,El Jordan 23,,
+Chile,10,2022-10-08,Paz Mental,Cris MJ,,
+Chile,11,2022-10-08,Tu Falta De Querer,Mon Laferte,MX,Rock y Alternativo
+Chile,12,2022-10-08,Bakanisimo,El Jordan 23,,New Age
+Chile,13,2022-10-08,Bailemos Reggaeton,Standly,,Latino
+Chile,14,2022-10-08,Bellakera,Cris MJ,,
+Chile,15,2022-10-08,La Suburban,Jory Boy & Cris MJ,,
+Chile,16,2022-10-08,Mi Buen Amor,Mon Laferte & Enrique Bunbury,ES,
+Chile,17,2022-10-08,34 Amor Y Mafia Remix,El Jincho & Harry Nach,,
+Chile,18,2022-10-08,Tus Lagrimas,Mora,,
+Chile,19,2022-10-08,Me Arrepenti,"AK:420, Cris MJ & Pailita",,
+Chile,20,2022-10-08,Los Malvekes,Cris MJ & Marcianeke,,
+China,1,2020-10-17,Dynamite,BTS,KR,K-Pop
+China,2,2020-10-17,WAP,Cardi B & Megan Thee Stallion,US,
+China,3,2020-10-17,7 Summers,Morgan Wallen,US,Country
+China,4,2020-10-17,Mood,24kGoldn & Iann Dior,US,
+China,5,2020-10-17,Nobody's Love,Maroon 5,US,Pop
+China,6,2020-10-17,The Plan,Travis Scott,US,Hip-Hop/Rap
+China,7,2020-10-17,Don't Stop,Megan Thee Stallion & Young Thug,US,
+China,8,2020-10-17,Holy,Justin Bieber & Chance The Rapper,CA,
+China,9,2020-10-17,Worry About Me,Ellie Goulding & Blackbear,GB,
+China,10,2020-10-17,Lemonade,"Internet Money, Gunna & Toliver",,
+China,11,2020-10-17,Savage Love,Jawsh 685 & Jason Derulo,NZ,
+China,12,2020-10-17,Maria,Hwasa,KR,
+China,13,2020-10-17,Come & Go,Juice WRLD & Marshmello,US,
+China,14,2020-10-17,Blinding Lights,Weeknd,CA,
+China,15,2020-10-17,Princess Cuts,"Headie One, Young T & Bugsey",Nottingham,
+China,16,2020-10-17,Death Bed,Powfu & Beabadoobee,England,
+China,17,2020-10-17,Loyal Brave True,Christina Aguilera,US,Soundtrack
+China,18,2020-10-17,Mamacita,"Black Eyed Peas, Ozuna & J.Rey Soul",US,
+China,19,2020-10-17,Rockstar,DaBaby & Roddy Ricch,US,
+China,20,2020-10-17,Savage (Remix),Megan Thee Stallion & Beyonce,US,
+China,1,2020-09-19,Loyal Brave True,Christina Aguilera,US,Soundtrack
+China,2,2020-09-19,The Plan,Travis Scott,US,Hip-Hop/Rap
+China,3,2020-09-19,WAP,Cardi B & Megan Thee Stallion,US,
+China,4,2020-09-19,Nobody's Love,Maroon 5,US,Pop
+China,5,2020-09-19,Come & Go,Juice WRLD & Marshmello,US,
+China,6,2020-09-19,Dynamite,BTS,KR,K-Pop
+China,7,2020-09-19,7 Summers,Morgan Wallen,US,Country
+China,8,2020-09-19,Death Bed,Powfu & Beabadoobee,England,
+China,9,2020-09-19,Over Now,Calvin Harris & Weeknd,Scotland,
+China,10,2020-09-19,Savage Love,Jawsh 685 & Jason Derulo,NZ,
+China,11,2020-09-19,Ice Cream,Blackpink & Selena Gomez,US,
+China,12,2020-09-19,Maria,Hwasa,KR,
+China,13,2020-09-19,Mamacita,"Black Eyed Peas, Ozuna & J.Rey Soul",US,
+China,14,2020-09-19,Remembering,Andrea Bocelli & Na Ying,IT,
+China,15,2020-09-19,Rockstar,DaBaby & Roddy Ricch,US,
+China,16,2020-09-19,Blinding Lights,Weeknd,CA,
+China,17,2020-09-19,Be Kind,Marshmello & Halsey,US,Dance
+China,18,2020-09-19,Savage (Remix),Megan Thee Stallion & Beyonce,US,
+China,19,2020-09-19,Queenstown,Passenger,GB,Traditional Folk
+China,20,2020-09-19,Roses,SAINt JHN,GY,Dance
+China,1,2020-08-22,Savage Love,Jawsh 685 & Jason Derulo,NZ,
+China,2,2020-08-22,Maria,Hwasa,KR,
+China,3,2020-08-22,Death Bed,Powfu & Beabadoobee,England,
+China,4,2020-08-22,Savage (Remix),Megan Thee Stallion & Beyonce,US,
+China,5,2020-08-22,Ur So F**kInG cOoL,Tones And I,AU,Alternative
+China,6,2020-08-22,WAP,Cardi B & Megan Thee Stallion,US,
+China,7,2020-08-22,Rockstar,DaBaby & Roddy Ricch,US,
+China,8,2020-08-22,Queenstown,Passenger,GB,Traditional Folk
+China,9,2020-08-22,Come & Go,Juice WRLD & Marshmello,US,
+China,10,2020-08-22,Blinding Lights,Weeknd,CA,
+China,11,2020-08-22,Cardigan,Taylor Swift,US,Alternative
+China,12,2020-08-22,Laxed (Siren Beat),Jawsh 685,NZ,Reggae
+China,13,2020-08-22,Don't Start Now,Dua Lipa,England,Pop
+China,14,2020-08-22,Be Kind,Marshmello & Halsey,US,Dance
+China,15,2020-08-22,Nobody's Love,Maroon 5,US,Pop
+China,16,2020-08-22,Roses,SAINt JHN,GY,Dance
+China,17,2020-08-22,Head & Heart,Joel Corry & MNEK,London,
+China,18,2020-08-22,Mamacita,"Black Eyed Peas, Ozuna & J.Rey Soul",US,
+China,19,2020-08-22,How You Like That,BlackPink,KR,
+China,20,2020-08-22,Bluebird,Miranda Lambert,US,
+China,1,2020-07-25,Maria,Hwasa,KR,
+China,2,2020-07-25,Savage Love,Jawsh 685 & Jason Derulo,NZ,
+China,3,2020-07-25,Savage (Remix),Megan Thee Stallion & Beyonce,US,
+China,4,2020-07-25,Death Bed,Powfu & Beabadoobee,England,
+China,5,2020-07-25,Mamacita,"Black Eyed Peas, Ozuna & J.Rey Soul",US,
+China,6,2020-07-25,How You Like That,BlackPink,KR,
+China,7,2020-07-25,Laxed (Siren Beat),Jawsh 685,NZ,Reggae
+China,8,2020-07-25,Rockstar,DaBaby & Roddy Ricch,US,
+China,9,2020-07-25,Salt,Ava Max,US,Pop
+China,10,2020-07-25,Be Kind,Marshmello & Halsey,US,Dance
+China,11,2020-07-25,Daisies,Katy Perry,US,Dance
+China,12,2020-07-25,Mojito,Jay Chou,,Mandopop
+China,13,2020-07-25,El Manual,Anuel AA,PR,Urbano latino
+China,14,2020-07-25,Don't Start Now,Dua Lipa,England,Pop
+China,15,2020-07-25,Roses,SAINt JHN,GY,Dance
+China,16,2020-07-25,Ur So F**kInG cOoL,Tones And I,AU,Alternative
+China,17,2020-07-25,Blinding Lights,Weeknd,CA,
+China,18,2020-07-25,Stuck With U,Ariana Grande & Justin Bieber,US,Pop
+China,19,2020-07-25,Bluebird,Miranda Lambert,US,
+China,20,2020-07-25,You Know I'll Go Get,DJ Haning & Rizky Ayuba,,
+China,1,2020-06-27,Rockstar,DaBaby & Roddy Ricch,US,
+China,2,2020-06-27,Death Bed,Powfu & Beabadoobee,England,
+China,3,2020-06-27,Savage (Remix),Megan Thee Stallion & Beyonce,US,
+China,4,2020-06-27,Savage Love,Jawsh 685 & Jason Derulo,NZ,
+China,5,2020-06-27,Rain On Me,Lady Gaga & Ariana Grande,US,Pop
+China,6,2020-06-27,Stuck With U,Ariana Grande & Justin Bieber,US,Pop
+China,8,2020-06-27,Laxed (Siren Beat),Jawsh 685,NZ,Reggae
+China,9,2020-06-27,Mojito,Jay Chou,,Mandopop
+China,10,2020-06-27,Don't Start Now,Dua Lipa,England,Pop
+China,11,2020-06-27,Be Kind,Marshmello & Halsey,US,Dance
+China,12,2020-06-27,You Know I'll Go Get,DJ Haning & Rizky Ayuba,,
+China,13,2020-06-27,Shao Nian,Meng Ran,,
+China,14,2020-06-27,Blinding Lights,Weeknd,CA,
+China,15,2020-06-27,Memories,Maroon 5,US,Pop
+China,16,2020-06-27,Mamacita,"Black Eyed Peas, Ozuna & J.Rey Soul",US,
+China,17,2020-06-27,Salt,Ava Max,US,Pop
+China,18,2020-06-27,Roses,SAINt JHN,GY,Dance
+China,19,2020-06-27,Sour Candy,Lady Gaga & Blackpink,US,
+China,20,2020-06-27,Banana,Conkarah & Shaggy,,
+China,1,2020-05-30,Death Bed,Powfu & Beabadoobee,England,
+China,2,2020-05-30,Be Kind,Marshmello & Halsey,US,Dance
+China,3,2020-05-30,Stuck With U,Ariana Grande & Justin Bieber,US,Pop
+China,4,2020-05-30,Savage (Remix),Megan Thee Stallion & Beyonce,US,
+China,5,2020-05-30,Laxed (Siren Beat),Jawsh 685,NZ,Reggae
+China,6,2020-05-30,Learn To Meow,"Wengie, Wengie",,
+China,7,2020-05-30,Toosie Slide,Drake,CA,Hip-Hop/Rap
+China,8,2020-05-30,Roses,SAINt JHN,GY,Dance
+China,9,2020-05-30,Memories,Maroon 5,US,Pop
+China,10,2020-05-30,Don't Start Now,Dua Lipa,England,Pop
+China,11,2020-05-30,Rain On Me,Lady Gaga & Ariana Grande,US,Pop
+China,12,2020-05-30,You Know I'll Go Get,DJ Haning & Rizky Ayuba,,
+China,13,2020-05-30,Dance Monkey,Tones And I,AU,Alternative
+China,14,2020-05-30,Long After,GEM,JP,
+China,15,2020-05-30,Salt,Ava Max,US,Pop
+China,16,2020-05-30,Say So,Doja Cat,US,R&B/Soul
+China,17,2020-05-30,Roxanne,Arizona Zervas,US,Hip-Hop/Rap
+China,18,2020-05-30,Blinding Lights,Weeknd,CA,
+China,19,2020-05-30,Rockstar,DaBaby & Roddy Ricch,US,
+China,20,2020-05-30,Banana,Conkarah & Shaggy,,
+China,1,2020-05-02,Toosie Slide,Drake,CA,Hip-Hop/Rap
+China,2,2020-05-02,Laxed (Siren Beat),Jawsh 685,NZ,Reggae
+China,3,2020-05-02,You Know I'll Go Get,DJ Haning & Rizky Ayuba,,
+China,4,2020-05-02,Blinding Lights,Weeknd,CA,
+China,5,2020-05-02,Death Bed,Powfu & Beabadoobee,England,
+China,6,2020-05-02,Say So,Doja Cat,US,R&B/Soul
+China,7,2020-05-02,Dance Monkey,Tones And I,AU,Alternative
+China,8,2020-05-02,Don't Start Now,Dua Lipa,England,Pop
+China,9,2020-05-02,Roses,SAINt JHN,GY,Dance
+China,10,2020-05-02,The Box,Roddy Ricch,US,Hip-Hop/Rap
+China,11,2020-05-02,Roxanne,Arizona Zervas,US,Hip-Hop/Rap
+China,12,2020-05-02,To Die For,Sam Smith,GB,Pop
+China,13,2020-05-02,Xianmu,Vae Xu,CN,
+China,14,2020-05-02,ON,BTS & Sia,KR,
+China,15,2020-05-02,Memories,Maroon 5,US,Pop
+China,16,2020-05-02,Salt,Ava Max,US,Pop
+China,17,2020-05-02,Dream Girl,Anna Of The North,Oslo,
+China,18,2020-05-02,No Time To Die,Billie Eilish,US,Alternative
+China,19,2020-05-02,Lose You To Love Me,Selena Gomez,US,Pop
+China,20,2020-05-02,Something Just Like This,Chainsmokers & Coldplay,GB,
+China,1,2020-04-04,Roses,SAINt JHN,GY,Dance
+China,2,2020-04-04,Blinding Lights,Weeknd,CA,
+China,3,2020-04-04,ON,BTS & Sia,KR,
+China,4,2020-04-04,Dance Monkey,Tones And I,AU,Alternative
+China,5,2020-04-04,Xianmu,Vae Xu,CN,
+China,6,2020-04-04,All Is Found,Kacey Musgraves,US,Soundtrack
+China,7,2020-04-04,Roxanne,Arizona Zervas,US,Hip-Hop/Rap
+China,8,2020-04-04,Don't Start Now,Dua Lipa,England,Pop
+China,9,2020-04-04,No Time To Die,Billie Eilish,US,Alternative
+China,10,2020-04-04,The Box,Roddy Ricch,US,Hip-Hop/Rap
+China,11,2020-04-04,Memories,Maroon 5,US,Pop
+China,12,2020-04-04,Everything I Wanted,Billie Eilish,US,Alternative
+China,13,2020-04-04,Nobody,"DJ Neptune, Joeboy & Mr Eazi",NG,World
+China,14,2020-04-04,Falling,Trevor Daniel,US,Pop
+China,15,2020-04-04,Something Just Like This,Chainsmokers & Coldplay,GB,
+China,16,2020-04-04,Say So,Doja Cat,US,R&B/Soul
+China,17,2020-04-04,To Die For,Sam Smith,GB,Pop
+China,18,2020-04-04,Intentions,Justin Bieber & Quavo,CA,
+China,19,2020-04-04,Lose You To Love Me,Selena Gomez,US,Pop
+China,20,2020-04-04,Filter,BTS,KR,K-Pop
+China,1,2020-03-07,ON,BTS & Sia,KR,
+China,2,2020-03-07,No Time To Die,Billie Eilish,US,Alternative
+China,3,2020-03-07,Filter,BTS,KR,K-Pop
+China,4,2020-03-07,Dance Monkey,Tones And I,AU,Alternative
+China,5,2020-03-07,Roxanne,Arizona Zervas,US,Hip-Hop/Rap
+China,6,2020-03-07,Xianmu,Vae Xu,CN,
+China,7,2020-03-07,Blinding Lights,Weeknd,CA,
+China,8,2020-03-07,The Box,Roddy Ricch,US,Hip-Hop/Rap
+China,9,2020-03-07,Memories,Maroon 5,US,Pop
+China,10,2020-03-07,Into The Unknown,Panic! At The Disco,US,
+China,11,2020-03-07,Something Just Like This,Chainsmokers & Coldplay,GB,
+China,12,2020-03-07,Falling,Trevor Daniel,US,Pop
+China,13,2020-03-07,Intentions,Justin Bieber & Quavo,CA,
+China,14,2020-03-07,Full Stop,GEM,JP,
+China,15,2020-03-07,Everything I Wanted,Billie Eilish,US,Alternative
+China,16,2020-03-07,Lose You To Love Me,Selena Gomez,US,Pop
+China,17,2020-03-07,Truth Hurts,Lizzo,US,Pop
+China,18,2020-03-07,My Time,BTS,KR,K-Pop
+China,19,2020-03-07,All Is Found,Kacey Musgraves,US,Soundtrack
+China,20,2020-03-07,Don't Start Now,Dua Lipa,England,Pop
+China,1,2020-02-08,The Box,Roddy Ricch,US,Hip-Hop/Rap
+China,2,2020-02-08,Xianmu,Vae Xu,CN,
+China,3,2020-02-08,Roxanne,Arizona Zervas,US,Hip-Hop/Rap
+China,4,2020-02-08,Dance Monkey,Tones And I,AU,Alternative
+China,5,2020-02-08,Lose You To Love Me,Selena Gomez,US,Pop
+China,6,2020-02-08,Into The Unknown,Panic! At The Disco,US,
+China,7,2020-02-08,Falling,Trevor Daniel,US,Pop
+China,8,2020-02-08,Feng Zi,R1SE,CN,
+China,9,2020-02-08,Memories,Maroon 5,US,Pop
+China,10,2020-02-08,Yummy,Justin Bieber,CA,Pop
+China,11,2020-02-08,Everything I Wanted,Billie Eilish,US,Alternative
+China,12,2020-02-08,Full Stop,GEM,JP,
+China,13,2020-02-08,Someone You Loved,Lewis Capaldi,GB,Alternative
+China,14,2020-02-08,Something Just Like This,Chainsmokers & Coldplay,GB,
+China,15,2020-02-08,Circles,Post Malone,US,Hip-Hop/Rap
+China,16,2020-02-08,All Is Found,Kacey Musgraves,US,Soundtrack
+China,17,2020-02-08,Rebirth,Cai Xukun,CN,
+China,18,2020-02-08,Don't Start Now,Dua Lipa,England,Pop
+China,19,2020-02-08,10000 Hours,"Dan & Shay, Justin Bieber",CA,
+China,20,2020-02-08,Truth Hurts,Lizzo,US,Pop
+China,1,2020-01-11,Xianmu,Vae Xu,CN,
+China,2,2020-01-11,Memories,Maroon 5,US,Pop
+China,3,2020-01-11,Dance Monkey,Tones And I,AU,Alternative
+China,4,2020-01-11,10000 Hours,"Dan & Shay, Justin Bieber",CA,
+China,5,2020-01-11,Into The Unknown,Panic! At The Disco,US,
+China,6,2020-01-11,Yummy,Justin Bieber,CA,Pop
+China,7,2020-01-11,Conversations With ET,Hua Chenyu,CN,
+China,8,2020-01-11,Roxanne,Arizona Zervas,US,Hip-Hop/Rap
+China,9,2020-01-11,Someone You Loved,Lewis Capaldi,GB,Alternative
+China,10,2020-01-11,Don't Start Now,Dua Lipa,England,Pop
+China,11,2020-01-11,Truth Hurts,Lizzo,US,Pop
+China,12,2020-01-11,Rebirth,Cai Xukun,CN,
+China,13,2020-01-11,Ballad From Northeast,Mao Buyi,CN,
+China,14,2020-01-11,Lose You To Love Me,Selena Gomez,US,Pop
+China,15,2020-01-11,Circles,Post Malone,US,Hip-Hop/Rap
+China,16,2020-01-11,Fu Yun,Allen Ren,,
+China,17,2020-01-11,Feng Zi,R1SE,CN,
+China,18,2020-01-11,Everything I Wanted,Billie Eilish,US,Alternative
+China,19,2020-01-11,All Is Found,Kacey Musgraves,US,Soundtrack
+China,20,2020-01-11,Something Just Like This,Chainsmokers & Coldplay,GB,
+China,1,2019-12-14,Rebirth,Cai Xukun,CN,
+China,2,2019-12-14,Don't Start Now,Dua Lipa,England,Pop
+China,3,2019-12-14,Memories,Maroon 5,US,Pop
+China,4,2019-12-14,Wing Chun,Chris Lee,,
+China,5,2019-12-14,Dance Monkey,Tones And I,AU,Alternative
+China,6,2019-12-14,Truth Hurts,Lizzo,US,Pop
+China,7,2019-12-14,The Upside,Charlie Zhou,CN,
+China,8,2019-12-14,10000 Hours,"Dan & Shay, Justin Bieber",CA,
+China,9,2019-12-14,Into The Unknown,Panic! At The Disco,US,
+China,10,2019-12-14,All Is Found,Kacey Musgraves,US,Soundtrack
+China,11,2019-12-14,Eternal Love,Kris Wu,CN,
+China,12,2019-12-14,Conversations With ET,Hua Chenyu,CN,
+China,13,2019-12-14,Circles,Post Malone,US,Hip-Hop/Rap
+China,14,2019-12-14,Senorita,Shawn Mendes & Camila Cabello,US,Pop
+China,15,2019-12-14,Fu Yun,Allen Ren,,
+China,16,2019-12-14,Lose You To Love Me,Selena Gomez,US,Pop
+China,17,2019-12-14,Jue Le,BY2,SG,
+China,18,2019-12-14,Everything I Wanted,Billie Eilish,US,Alternative
+China,19,2019-12-14,Something Just Like This,Chainsmokers & Coldplay,GB,
+China,20,2019-12-14,Someone You Loved,Lewis Capaldi,GB,Alternative
