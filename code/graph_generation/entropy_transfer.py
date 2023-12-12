@@ -1,3 +1,4 @@
+from collections import Counter
 import math
 import statistics
 import pandas as pd
@@ -12,6 +13,8 @@ import itertools
 from matplotlib import patches
 from scipy.cluster import hierarchy
 from sklearn.cluster import AgglomerativeClustering
+from sympy.utilities.iterables import multiset_permutations
+
 from code.graph_generation.initial_graphs import preprocessing
 from code.graph_generation.ste import _get_symbol_sequence, symbolic_TE
 from code.graph_generation.summary_statistics.heatmaps import plot_heatmap
@@ -402,6 +405,19 @@ def transform_positions(position):
         return 2
     return 1
 
+def unique_permutations(arr):
+    unique_vals, counts = pd.unique(arr, return_counts=True)
+    unique_perms = multiset_permutations(unique_vals)
+
+    all_permutations = []
+    for perm in unique_perms:
+        current_perm = []
+        for val in perm:
+            current_perm.extend([val] * counts[unique_vals == val][0])
+        all_permutations.append(current_perm)
+
+    return all_permutations
+
 def test_random(df):
     df['Week_Number_Year']  = df['Week_Number'].astype(str) + "_" +df['Year'].astype(str)
     filepath = "correct_extended_countries_with_entropy_all.csv"
@@ -416,13 +432,15 @@ def test_random(df):
     res['Transform_Position_Country1'] = res['Position_Country1'].apply(transform_positions)
     res['Transform_Position_Country2'] = res['Position_Country2'].apply(transform_positions)
 
-    
+    print('halo')
     e1 = symbolic_TE(res['Transform_Position_Country1'], res['Transform_Position_Country2'], 1, 3)
-    all_possible_permutations = list(itertools.permutations(res['Transform_Position_Country1']))
+    all_possible_permutations =unique_permutations(res['Transform_Position_Country1'])
     print(len(res['Transform_Position_Country1']), len(all_possible_permutations))
+    print(all_possible_permutations)
     e = []
     i=0
     for p in all_possible_permutations:
+        print(p)
         e_random = symbolic_TE(res['Transform_Position_Country1'], p, 1, 3)
         de_random = e1 - e_random
         # print(de_random)
