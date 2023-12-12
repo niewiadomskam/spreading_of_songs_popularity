@@ -25,26 +25,19 @@ def get_top_chart(url, chart_date, df=None):
             raise Exception('cannot load page')
         soup = BeautifulSoup(response_body.text, "lxml")
         country = soup.find("font").text.split(' ')
-        # print('here')
         country = get_country_name(country)
         if df is not None:
             res = df[(df['Country'] == country) & (df['Date'] == chart_date)]
             if len(res) > 0:
                 return None
-        # print('here2')
         chart_table = soup.find('table', attrs={"cellpadding": "2"})
-        # print('here3')
         songs_rows = chart_table.find_all("tr", class_="latc_song")
-        # print('here4')
 
         chart_data = []
         for row in songs_rows:
-            # print('here5')
             position = row.find("td", class_="text-nowrap text-center")
-            # print('here6')
             song_data = row.find("table")
             
-            # print('here7')
             song_title = song_data.find("div", attrs={"style":"margin-bottom: 4px;"})
             song_author = song_data.find("a", attrs={"style":"text-decoration: none; "})
             # print(song_title.text, song_author.text)

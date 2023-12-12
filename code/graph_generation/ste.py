@@ -15,7 +15,44 @@ def _get_symbol_sequence(x,l,m):
     Y = np.empty((m, len(x) - (m - 1) * l))
     for i in range(m):
         Y[i] = x[i * l:i * l + Y.shape[1]]
-    return Y.T
+    subsamples = Y.T
+
+    return np.apply_along_axis(_encode_subsample, axis=1, arr=subsamples)
+
+def _encode_subsample(x):
+    if len(set(x)) ==1:
+        return np.array([1,1,1]) 
+    if _has_duplicate(x):
+        return _encode_duplicated_row(x)
+    return np.argsort(x, kind="quicksort")
+
+
+def _has_duplicate(arr):
+    for i in range(len(arr)):
+        for j in range(i + 1, len(arr)):
+            if arr[i] == arr[j]:
+                return True
+    return False
+
+def _encode_duplicated_row(row):
+    if row[0] == row[1]:
+        if row[2] > row[0]:
+            return np.array([1, 1, 2])
+        else:
+            return np.array([1, 1, 0])
+
+    elif row[1] == row[2]:
+        if row[0] > row[1]:
+            return np.array([2, 1, 1])
+        else:
+            return np.array([0, 1, 1])
+
+    elif row[0] == row[2]:
+        if row[1] > row[0]:
+            return np.array([1, 2, 1])
+        else:
+            return np.array([1, 0, 1])
+
         
 def incr_counts(key,d):
     """ Helper function for creating joint distribution over symbols.
@@ -56,8 +93,10 @@ def symbolic_TE(ts1,ts2,l,m):
         :p_xy, p_yy1, p_y -- respective marginal distributions
     """
     
-    x_sym = _get_symbol_sequence(ts1,l,m).argsort(kind='quicksort')
-    y_sym = _get_symbol_sequence(ts2,l,m).argsort(kind='quicksort')
+    x_sym = _get_symbol_sequence(ts1,l,m)
+    y_sym = _get_symbol_sequence(ts2,l,m)
+    # print(x_sym)
+    # print(y_sym)
 
     hashmult = np.power(m, np.arange(m))
     hashval_x = (np.multiply(x_sym, hashmult)).sum(1)
@@ -65,6 +104,8 @@ def symbolic_TE(ts1,ts2,l,m):
     
     x_sym_to_perm = hashval_x
     y_sym_to_perm = hashval_y
+    # print(x_sym_to_perm)
+    # print(y_sym_to_perm)
     
     p_xyy1 = {}
     p_xy = {}
@@ -103,5 +144,6 @@ def symbolic_TE(ts1,ts2,l,m):
         yy1 = xyy1.split(",")[1] + "," +  xyy1.split(",")[2] 
         if xyy1 in p_y1_given_xy and yy1 in p_y1_given_y:
             if float('-inf') < float(np.log2(p_y1_given_xy[xyy1]/p_y1_given_y[yy1])) < float('inf'):
+                # print(p_xyy1[xyy1], p_y1_given_xy[xyy1], p_y1_given_y[yy1], np.log2(p_y1_given_xy[xyy1]/p_y1_given_y[yy1]))
                 final_sum += p_xyy1[xyy1]*np.log2(p_y1_given_xy[xyy1]/p_y1_given_y[yy1])
     return final_sum
