@@ -56,7 +56,7 @@ def plot_average_lifetime_by_position(df):
 
 def chart_position_change_distribution(df):
     countries = df['Country'].unique()
-    fig, axs = plt.subplots(nrows=9, ncols=3, sharey=True, figsize=(40,30))
+    fig, axs = plt.subplots(nrows=9, ncols=3, sharey=True, figsize=(10,12))
     for (i, c) in enumerate(countries):
         result = df[df['Country'] == c]    
         j = i // 3 # row
@@ -79,11 +79,11 @@ def chart_position_change_distribution(df):
         # mark the percentiles 
         rect_left = patches.Rectangle((-40, 0), 40 + perecentile_25, 12000, linewidth=1, edgecolor='grey', facecolor='grey', alpha=0.3)
         axs[j, i].add_patch(rect_left)
-        axs[j, i].text(perecentile_25 - 1, 7000, "2.5th", size=12, alpha = 0.8)
+        axs[j, i].text(perecentile_25 - 1, 7000, "2.5th", size=8, alpha = 0.8)
         rect_right = patches.Rectangle((perecentile_975, 0), 40 - perecentile_975, 12000, linewidth=1, edgecolor='grey', facecolor='grey', alpha=0.3)
         axs[j, i].add_patch(rect_right)
-        axs[j, i].text(perecentile_975 + 1, 7000, "97.5th", size=12, alpha = 0.8)
-        axs[j, i].text(perecentile_50 + 1, 10000, "Median", size=12, alpha = 0.8)
+        axs[j, i].text(perecentile_975 + 1, 7000, "97.5th", size=8, alpha = 0.8)
+        axs[j, i].text(perecentile_50 + 1, 10000, "Median", size=8, alpha = 0.8)
 
         axs[j, i].set_xlabel("Position differenece")
         axs[j, i].set_ylabel("Count")
@@ -95,7 +95,7 @@ def chart_position_change_distribution(df):
 
 def chart_start_and_end_positions(df):
     countries = df['Country'].unique()
-    fig, axs = plt.subplots(nrows=9, ncols=3, sharey=True, figsize=(40,30))
+    fig, axs = plt.subplots(nrows=9, ncols=3, sharey=True, figsize=(10,15))
     for (i, c) in enumerate(countries):
         result = df[df['Country'] == c] 
         if not c in countries_top_40:
@@ -154,4 +154,4 @@ def get_start_and_end_positions(df):
     result = result.reset_index(drop=True)
     return result
 
-chart_start_and_end_positions(df)
+chart_position_change_distribution(df)

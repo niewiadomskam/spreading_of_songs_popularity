@@ -9,7 +9,7 @@ from code.graph_generation.correlation import calculate_posistion_from_release_t
 from code.graph_generation.initial_graphs import preprocessing
 
 def kullback_leibler_distance(distribution1, distribution2):
-    return sum((x * math.log(x / y)) if y !=0 else 0 for x, y in zip(distribution1, distribution2))
+    return sum((x * math.log(x / y)) if (abs(y) > 0.000005 and abs(x) > 0.000005) else 1 for x, y in zip(distribution1, distribution2))
 
 def psi_distance(distribution1, distribution2):
     return sum((x-y) * math.log(x / y) for x, y in zip(distribution1, distribution2))

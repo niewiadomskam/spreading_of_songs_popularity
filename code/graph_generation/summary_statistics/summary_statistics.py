@@ -34,7 +34,7 @@ def plot_avg_lifetime_in_country(df):
 def plot_average_lifetime(df):
     df= calculate_weeks_on_chart(df)
     countries  = df['Country'].unique()
-    fig, axs = plt.subplots(nrows=9, ncols=3, sharex=True, figsize=(40,15))
+    fig, axs = plt.subplots(nrows=9, ncols=3, sharex=True, figsize=(15,15))
     for (i,c) in enumerate(countries):
         res = df[df['Country'] == c]
         j = i // 3 # row
@@ -253,4 +253,4 @@ def weird_germany(df):
     std_error = res[["First_day_of_week", "Weeks_on_top"]].groupby(
             by="First_day_of_week").sem().rolling(window=30).mean()
     
-# plot_avg_days_on_chart_before_and_after_peak(df)
+plot_average_lifetime(df)
