@@ -4,6 +4,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import time
 import asyncio
+import concurrent.futures
 
 
 from code.graph_generation.initial_graphs import preprocessing
@@ -182,5 +183,38 @@ def plot_histogram_for_perutations(deltas, de):
     ax.set_ylabel("Count")
     # plt.savefig("./diagrams/entropy/entropy_test_4_groups.pdf", format="pdf")
     plt.show()
+
+def concurrent_test_loop(df):
+    start = time.time()
+    file_name="entropies_delta_all_countries.csv"
+    print('start', start)
+    df, entropy_df = load_initial_data(df)
+    vectorized_lookup_dict = load_dict_as_vectorized()
+    countries = df['Country'].unique() #["UK", "USA", "Ireland", "Denmark", "Belgium"]
+
+    with open(file_name, 'w') as f:
+        writer = csv.writer(f)
+        writer.writerow(["Country1", "Country2", "Song", "Delta_entropy"])
+
+        for i, c1 in enumerate(countries): 
+            for j, c2 in enumerate(countries):
+                if i <=j :
+                    continue
+                songs = entropy_df[(entropy_df['Country1'] ==c1) & (entropy_df['Country2'] == c2)]['Song'].unique()
+                with concurrent.futures.ThreadPoolExecutor() as executor:
+                    # Start the operations and mark each future with its parameter
+                    future_to_param = {executor.submit(my_async_loop,(df, c1,c2,song, vectorized_lookup_dict)): (df, c1,c2,song, vectorized_lookup_dict) for song in songs}
+                    for future in concurrent.futures.as_completed(future_to_param):
+                        param = future_to_param[future]
+                        try:
+                            result = future.result()
+                            if(result):
+                                writer.writerows(result)
+                        except Exception as exc:
+                            print(f"{param} generated an exception: {exc}")
+
+
+    end = time.time()
+    print(end - start)
 
 test_time(df)
